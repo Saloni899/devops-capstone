@@ -94,6 +94,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>fic-trading-app</finalName>
     </build>
 </project>
 
